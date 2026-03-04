@@ -1,0 +1,5 @@
+edu/famu/cop3060/yard/dto/OpportunityDTO.class
+edu/famu/cop3060/yard/controller/OpportunitiesController.class
+edu/famu/cop3060/yard/service/OpportunitiesService.class
+edu/famu/cop3060/yard/store/InMemoryOpportunityStore.class
+edu/famu/cop3060/yard/YardApplication.class
